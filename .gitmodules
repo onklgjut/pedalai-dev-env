@@ -1,0 +1,12 @@
+[submodule "src/rpi-kernel-build"]
+	path = src/rpi-kernel-build
+	url = git@github.com:onklgjut/pedalai-rpi-kernel-build.git
+[submodule "src/analog-processor"]
+	path = src/analog-processor
+	url = git@bitbucket.org:Talonas/analog-processor.git
+[submodule "src/build-env"]
+	path = src/build-env
+	url = git@github.com:onklgjut/pedalai-build-env.git
+[submodule "src/linux"]
+	path = src/linux
+	url = https://github.com/raspberrypi/linux.git
